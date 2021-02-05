@@ -200,7 +200,9 @@ public class Cipher {
             }
             array[i] = new String(letters);
         }
+        System.out.println();
         return array;
     }
+
 
 }
